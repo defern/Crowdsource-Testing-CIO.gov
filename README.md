@@ -9,7 +9,7 @@ Agency: GSA
 
 Application Name: CIO.gov Web Site
 
-Test Cycle Dates: December XX, 2013 to December XX, 2013
+Test Cycle Dates: March 24, 2014 to March 31, 2014
 
 Test Cycle Coordinator: David Fern david.fern@ssa.gov
 
